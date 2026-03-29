@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+nba_api
+xgboost
+scikit-learn
+sqlalchemy
